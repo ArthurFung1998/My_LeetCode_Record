@@ -1,1 +1,2 @@
 # My_LeetCode_Record
+用于记录自己刷LeetCode的解法思路
